@@ -1,6 +1,8 @@
 CAPI=2:
 
-name : secworks:crypto:siphash:0
+name: secworks:crypto:siphash:1.0.0
+description: Hardware implementation of the SipHash short-inout PRF.
+license: BSD-2-Clause
 
 filesets:
   rtl:
